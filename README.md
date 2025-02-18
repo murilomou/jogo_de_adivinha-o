@@ -1,2 +1,2 @@
-# jogo_de_adivinha-o
+# jogo_de_adivinha
 Jogo de adivinhação, simples feito em python
